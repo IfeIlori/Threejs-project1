@@ -1,0 +1,11 @@
+Model Information:
+* title:	Car Transport Trailer
+* source:	https://sketchfab.com/3d-models/car-transport-trailer-e79c6159983c430dbaa6110cff5a8b92
+* author:	maregajavier (https://sketchfab.com/maregajavier)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Car Transport Trailer" (https://sketchfab.com/3d-models/car-transport-trailer-e79c6159983c430dbaa6110cff5a8b92) by maregajavier (https://sketchfab.com/maregajavier) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
